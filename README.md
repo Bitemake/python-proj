@@ -1,3 +1,2 @@
 # Hello, world
-I am just starting to learn the Python programming language. He graduated as a system administrator and defended an excellent diploma in information security. In my free time, I study innovations in various Linux distributions. During my studies, I studied C#, but did not practice for a long time.
-This repository will store the very first projects.
+I am just starting to learn the Python programming language. I received a system administrator diploma and defended it as "excellent" with a topic on information security. In my free time, I study innovations in various Linux distributions. During my studies, I studied C #, but did not practice for a long time. This repository will contain the very first projects written in this language. Perhaps in the future, there will be something worthwhile here.
